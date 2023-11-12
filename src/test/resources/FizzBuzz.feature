@@ -17,5 +17,5 @@ Feature: FizzBuzz Game play
 
   Scenario: Play FizzBuzz to get FizzBuzz
     Given Create a FizzBuzz game play
-    When I play with number 15
+    When I play with number 20
     Then The result is "FizzBuzz"
